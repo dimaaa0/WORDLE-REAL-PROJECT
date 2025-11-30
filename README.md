@@ -1,4 +1,4 @@
-WORDLE-REAL-PROJECT 🎯
+#WORDLE-REAL-PROJECT 🎯
 A customizable and dynamic version of the classic Wordle game
 
 Wordle is a popular word puzzle where players attempt to guess a hidden word within a limited number of tries.
