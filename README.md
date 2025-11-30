@@ -1,4 +1,4 @@
-WORDLE-REAL-PROJECT 🎯
+# WORDLE-REAL-PROJECT 🎯
 A customizable and dynamic version of the classic Wordle game
 
 Wordle is a popular word puzzle where players attempt to guess a hidden word within a limited number of tries.
@@ -12,7 +12,7 @@ After each guess, the letters are color-coded to show:
 
 ⬜ Letter not in the word
 
-✨ Key Features
+# ✨ Key Features
 
 🔤 Custom word length — choose the length of the secret word
 
@@ -24,7 +24,7 @@ After each guess, the letters are color-coded to show:
 
 🎮 Challenging and replayable mechanics
 
-🛠 Technologies Used
+# 🛠 Technologies Used
 
 React
 
